@@ -7,7 +7,7 @@ import Link from "next/link";
 import Logo from "./logo";
 
 export const siteTitle = "Hello App Runner and Copilot!";
-export const topPageMessage = "Happy building with App Runner and Copilot! (By YusukeOno)";
+export const topPageMessage = "Happy building with App Runner and Copilot!";
 
 export default function Layout({ children, home }) {
   return (
